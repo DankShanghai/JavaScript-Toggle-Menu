@@ -1,2 +1,2 @@
-# JavaScript-Toggle-Menu
+# JavaScript/jQuery-Toggle-Menu
 Toggle menu JQuery
